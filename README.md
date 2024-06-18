@@ -8,8 +8,6 @@
 * 🖥️ I currently delve deeper into Mobile Development.
 
 
- <a href="https://github.com/jesicasp/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesicasp&layout=compact&theme=buefy&hide_border=true" /></a> 
+ <a href="https://github.com/jesicasp/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesicasp&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> 
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jesicasp&layout=compact&langs_count=8&theme=algolia"/>
-</a>
 
