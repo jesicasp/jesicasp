@@ -12,11 +12,6 @@ I currently delve deeper into Mobile Development 🖥️
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jesicasp&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jesicasp&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=jesicasp&icon=2&color=1)](https://visitcount.itsvg.in)
 
 # GitHub Stats:
 
